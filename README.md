@@ -1,4 +1,4 @@
-# Reproducing Our Best Leaderboard Result (Score: 0.361)
+# Reproducing Our Best Leaderboard Result 
 
 ## Requirements
 
